@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mymod",
+  "name": "Macro",
+  "description": "A mod that automates mining for almost all block types",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ItsCryingLemon, ItsHappyLemon, ItsPerfectLemon"],
+  "credits": "Noone. Created this in my sleep",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
